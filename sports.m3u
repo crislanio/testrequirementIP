@@ -1,0 +1,399 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name="Nova lista 2019" pltv-description="Lista IPTV" pltv-cover="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-author="Maikon" pltv-email="maikonclaudio2015@gmail.com"
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Sem grupo",AD Sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Sem grupo",A1 Sport HD
+http://178.132.6.97:80/A1Sport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais Abertos",GLOBO SP
+https://dpmia01.gcdn.co/020/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Canais",RECORD
+https://dpmia01.gcdn.co/066/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP T",Esporte Interativo HD
+https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP T",ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP T",Esporte Interativo HD
+https://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",ATRESSERIES
+http://189.216.247.113/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP T",Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",DEPORTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1243136775_b800000_slesp.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",EI Maxx HD
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="WEB",TCM 10 HD
+http://cw.tcm10.com.br:80/low/canal10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",TCM 10 HD
+http://cw.tcm10.com.br:80/low/canal10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP T",TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="USA",NRB Network (USA)
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP T",TCM 10 HD
+http://cw.tcm10.com.br:80/low/canal10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",NOVA CINEMA 05
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP T",ESPN HD  HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Esporte Interativo 2 HD
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP T",ESPN HD  HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",SBT | HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",Cine Filmes 4
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ KIDS",HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream?
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",GLOBO MG
+http://ssh101.com:80/m3u8/dyn/aovivobrasilhds3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP T",TNT Series
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ PORTUGAL",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Esporte Interativo 2 HD
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Esporte Interativo HD
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP T",TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",EI Maxx HD
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",Esporte Interativo BR HD
+http://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ KIDS",NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ KIDS",NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",Telecine4
+http://www.tv-msn.com/master.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ BRASIL",filmes 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",COMBATE
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ ESPORTES",COMBATE
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV LOCAL",TBC
+http://rsync.com.br:1935/rsync00026/rsync.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",Premiere Clubes
+http://208.75.225.26/m3u8/dyn/ch0006/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV LOCAL",Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ",CINE 24H
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ 2",SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Fox TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",AD Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",AD Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",Telecine 5
+http://www.tv-msn.com/master.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ PORTUGAL",SPORT TV 3
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g3/SportTV3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ PORTUGAL",SPORT TV 4 HD
+http://sportsbar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g4/Sport4PT.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="GUIA DO LUIZ VIP",ID - Investigation Discovery
+http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TEMPORÁRIOS",MULTISHOW
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",Nick JR HD
+http://iptv.masterr.cf:25461/live/Vpm05gP2xw/LMY4avxLcQ/2925.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",HISTORY
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1695588725.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",CINE TERROR
+http://wse.planeta-online.tv:1935/live/channel_5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",Bis
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",EI Maxx HD
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",SÓ FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",Cine Filmes 3
+https://minhalista.live/channel/438323/ToplistasIPTV/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 2",Cine Filmes 5
+https://minhalista.live/channel/438325/ToplistasIPTV/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",GNT
+http://painel.iptvmove.com:80/live/diogombc/diogombc/1309.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",VIVA FHD
+http://painel.iptvmove.com:80/live/diogombc/diogombc/7973.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",TLC
+http://painel.iptvmove.com:80/live/diogombc/diogombc/1239.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",TLC HD
+http://painel.iptvmove.com:80/live/diogombc/diogombc/3486.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",DISCOVERY HOME & HEALTH
+http://painel.iptvmove.com:80/live/diogombc/diogombc/1332.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",FX
+http://painel.iptvmove.com:80/live/diogombc/diogombc/1313.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",A&E HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10895.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",CINEMAX HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10924.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",Comedy Central HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4603.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",FOX HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10974.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",FOX PREMIUM 1 HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10978.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 2",FOX PREMIUM 2 HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10980.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",HBO HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",HBO HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4085.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",HBO SD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10997.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 2",HBO
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4090.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",HBO 2 HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10999.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 2",HBO FAMILY SD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",MAX HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11017.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",MEGAPIX  FULL HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11145.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 2",Megapix
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4059.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",CANAL SONY HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10919.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",SPACE HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11078.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 3",SPACE
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11077.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",STUDIO UNIVERSAL HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11086.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",SYFY HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11076.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",TBS HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11090.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",Telecine Action Full HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/7885.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",TELECINE ACTION HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11093.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",TELECINE CULT FULL HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11146.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",TELECINE FUN FULL HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11147.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",TELECINE FUN HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11097.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",Telecine Pipoca Full HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/7878.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",TELECINE PIPOCA HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11099.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",Telecine Premium Full HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/7694.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 2",Telecine Premium
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/3893.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 2",Telecine Touch HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/3890.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",TNT HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11108.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 2",UNIVERSAL CHANNEL HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11124.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 3",Universal Channel HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/3871.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 4",Universal Channel
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/3872.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 4",ANIMAL PLANET HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10899.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 4",DISCOVERY CHANNEL
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10931.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 2",H2 HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10996.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 2",ID
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11010.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 4",CARTOON NETWORK
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10921.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP",CARTOON NETWORK HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10922.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 1",Disney Channel HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4143.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VIP 3",DISNEY CHANNEL
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10947.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Combate Full HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/10781.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Band Sports SD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4179.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",PREMIERE CLUBES FULL HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11152.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere Clubes HD*
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/11059.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere Clubes HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4019.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere Clubes SD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4020.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere 1 HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/6609.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere 2 HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4615.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere 3 HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4030.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere 3 SD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4031.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere 4 HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4028.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere 4 SD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4029.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere 5 HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4026.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere 6 HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4024.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere 7 HD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4023.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Esportes",Premiere 9 SD
+http://br1.e-tv.xyz:8081/live/likeipbrasilsel98/skTi4jJQv9/4021.m3u8
